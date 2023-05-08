@@ -1,4 +1,4 @@
-<script>
+
 
 let familia = {
     receitas: [20000, 300, 4000],
@@ -34,5 +34,5 @@ console.log(`Seu saldo é ${balancoText}: ${total}`)
 }
 
 calcularBalanco()
-</script>
+
 

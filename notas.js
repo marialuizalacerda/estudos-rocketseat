@@ -1,5 +1,5 @@
 
-<script>
+
 
 let score = 100
 
@@ -51,6 +51,5 @@ console. log(getScore(55))
 console. log(getScore(100))
 console. log(getScore(0))
 
-</script>
 
 
